@@ -1,9 +1,16 @@
 // ==UserScript==
 // @name         A Dark Room Trainer
 // @namespace    http://tampermonkey.net/
-// @version      0.9.5
-// @description  Make A Dark Room Pretty Easy
-// @author       You
+// @version      0.9.6
+// @description  Make A Dark Room Pretty Easy, some would consider it cheats
+// @description  Handles Events
+// @description  Stokes, Gathers and Checks
+// @description  Adds a trainer with:
+// @description  - Unlock Buttons for MapBuildings, Blueprints, Perks, Map, Ressources, Craftables/Weapons
+// @description  - Never Starve Button
+// @description  - No wait Time to Embark after death Button
+// @description  - Buttons to add 10/100/1000 Ressources
+// @author       https://github.com/anisfencheltee
 // @match        https://adarkroom.doublespeakgames.com/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=doublespeakgames.com
 // @grant        GM_notification
