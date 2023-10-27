@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         A Dark Room Trainer
 // @namespace    http://tampermonkey.net/
-// @version      0.9
+// @version      0.9.5
 // @description  Make A Dark Room Pretty Easy
 // @author       You
 // @match        https://adarkroom.doublespeakgames.com/
