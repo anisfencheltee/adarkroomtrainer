@@ -11,6 +11,8 @@
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @require https://code.jquery.com/jquery-3.6.0.min.js
+// @downloadURL  https://github.com/anisfencheltee/adarkroomtrainer/raw/main/A%20Dark%20Room%20Trainer.user.js
+// @updateURL  https://github.com/anisfencheltee/adarkroomtrainer/raw/main/A%20Dark%20Room%20Trainer.user.js
 // ==/UserScript==
 
 (
